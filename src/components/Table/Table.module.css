@@ -1,0 +1,28 @@
+.Table button {
+    background-color: #7a8b9e;
+    border: 1px solid black;
+    color: white;
+    padding: 50px 100px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+s.Table {
+    display: grid;
+    grid-column: 1 / 2;
+    background-color: #cdcac1;
+    border-radius: 8px;
+    border: 1px;
+    padding: 10px;
+}
+.Page {
+    background-color: #cdcac1;
+}
+
+.Table h3 {
+    margin-left: 30%;
+
+}

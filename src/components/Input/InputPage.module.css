@@ -1,0 +1,32 @@
+.InputPage {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding-bottom: 250px;
+}
+.InputPage button {
+    display: flex;
+    background-color: #ffdd2d;
+    color: #333;
+    border-radius: 12px;
+    padding: 16px;
+    border: 1px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto 0;
+}
+.InputPage input {
+    display: flex;
+    width: 150px;
+    background-color: #fdfdfd;
+    border-radius: 12px;
+    padding: 16px;
+    border: 1px solid;
+    border-color: #d1d0d0;
+    margin: 10px auto 0;
+}
+.InputPage h3 {
+    margin: 10px auto;
+}
+
+
