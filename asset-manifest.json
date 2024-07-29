@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/seating-chart/static/css/main.f2c76b84.css",
+    "main.js": "/seating-chart/static/js/main.d6548eaa.js",
+    "static/media/glasses.png": "/seating-chart/static/media/glasses.55a817e19313292a4a16.png",
+    "index.html": "/seating-chart/index.html",
+    "main.f2c76b84.css.map": "/seating-chart/static/css/main.f2c76b84.css.map",
+    "main.d6548eaa.js.map": "/seating-chart/static/js/main.d6548eaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2c76b84.css",
+    "static/js/main.d6548eaa.js"
+  ]
+}
